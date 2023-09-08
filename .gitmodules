@@ -1,0 +1,9 @@
+[submodule "EvaluationFrontend"]
+	path = EvaluationFrontend
+	url = https://github.com/IamStarlight/EvaluationFrontend.git
+[submodule "EvaluationAlgorithm"]
+	path = EvaluationAlgorithm
+	url = https://github.com/IamStarlight/EvaluationAlgorithm.git
+[submodule "EvaluationBackend"]
+	path = EvaluationBackend
+	url = https://github.com/IamStarlight/EvaluationBackend.git
